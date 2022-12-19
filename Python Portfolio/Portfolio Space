@@ -1,0 +1,23 @@
+#This codespace will help me display my working knowledge of Python.
+print ("Hello, World! Look at my code progress below!")
+
+#Here is an example of a calculation in Python
+print((((1+2)*3)/4)**5)
+#Should return 57.66503390625 - Test Result: Success!
+
+#Here is an example of my "def/if" statements
+def is even(number):
+    if number % 2 == 0:
+        return True
+    return False
+#The goal of this is to return a true statement or false statement without useing "else"
+
+#Example of my elif statements
+elif len(username)>15:
+    print("Invalid username. Must be at most 15 characters long.")
+    else:
+        print("Valid username.")
+
+
+
+
